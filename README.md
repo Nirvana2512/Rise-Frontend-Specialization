@@ -6,7 +6,7 @@ Assesment submission by AMI PATEL dated 2nd May'2021.
 1. Assesment one : localStorage & sessionStorage.
 Please open Readme file  link.....
 Google Photo link sent for the Errors :
- //https://photos.app.goo.gl/JxeWLbZ9HRgzJ7oTA 
+//( https://photos.app.goo.gl/JxeWLbZ9HRgzJ7oTA ) 
 
 2. Assesment two : WebSQL.html to IndexedDB.html
 VisualStudioCode work stored in Repository.
