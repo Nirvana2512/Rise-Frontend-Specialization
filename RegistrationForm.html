@@ -1,0 +1,123 @@
+<!Doctype html>
+<html>
+  
+  <head>
+      <title>Registration Form</title>
+
+	<style>
+     		#wrapper
+		{
+		width:1000px;height:550px;background-color:pink;
+		}     
+	</style>
+
+    </head>
+  
+    <body>
+
+	<div id="wrapper">
+	
+      <form>
+      <fieldset>
+        <legend>Registration Form </legend>
+      <table width="100%">
+        <tr>
+          <td width="50%" align="right"> Name : </td>
+          <td width="50%" align="left"> <input type="text"/></td>
+        </tr>
+        
+        <tr>
+          <td width="50%" align="right"> Password : </td>
+          <td width="50%" align="left"><input type="password"/> </td>
+        </tr>
+
+	<tr>
+          <td width="50%" align="right"> Confirm Password : </td>
+          <td width="50%" align="left"><input type="password" name="retype_password"/> </td>
+        </tr>
+
+	       
+        <tr>
+          <td width="50%" align="right"> Gender : </td>
+          <td width="50%" align="left"><input type="radio" name="G"/>M <input type="radio" name="G"/>F </td>
+        </tr>
+        
+        <tr>
+          <td width="50%" align="right"> Address : </td>
+          <td width="50%" align="left"><textarea rows="6"> </textarea></td>
+        </tr>
+
+	<tr>
+          <td width="50%" align="right"> Contact No : </td>
+          <td width="50%" align="left"><label for="phone"></label>
+		<input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"/></td>
+        </tr>	
+        
+        <tr>
+          <td width="50%" align="right"> Email : </td>
+          <td width="50%" align="left"><input type="email" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter valid email"/></td>
+        </tr>
+        
+	<tr>
+          <td width="50%" align="right"> Upload Image : </td>
+          <td width="50%" align="left"><input type="file" name="fileToUpload" id="fileToUpload"/></td>
+        </tr>
+
+        
+        <tr>
+          <td width="50%" align="right"> Qualification : </td>
+          <td width="50%" align="left"> <select>
+            <option >Select</option>
+            <option value="1">B.Tech</option>
+            <option >M.E</option>
+            <option >M.Tech</option>
+            
+          </select></td>
+        </tr>
+      
+        <tr>
+          <td width="50%" align="right"> Skills : </td>
+          <td width="50%" align="left"> 
+            <select multiple="multiple">
+            <option >HTML</option>
+            <option >CSS</option>
+            <option >JavaScript</option>
+            <option >AngularJS</option>
+            
+          </select>
+          </td>
+          </tr>
+
+	<tr>
+          <td width="50%" align="right"> Skills Achicement </td>
+          <td width="50%" align="left"><input type="range" min="0" max="100"><label for="volume"></label> </td>
+        </tr>
+        
+        <tr>
+          <td width="50%" align="right"> Resume </td>
+          <td width="50%" align="left"><input type="file"/> </td>
+        </tr>
+
+	<tr>
+          <td width="50%" align="right"> Register Date </td>
+          <td width="50%" align="left"><input type="datetime-local"/> </td>
+        </tr>
+  
+       
+         <tr>
+          <td width="50%" align="right"> <input type="checkbox"/> </td>
+          <td width="50%" align="left">I agree all terms & conditions...  </td>
+         </tr>
+        
+         <tr>
+          <td width="50%" align="right"> <input type="Reset"/> </td>
+          <td width="50%" align="left"><input type="Submit"/> </td>
+         </tr>
+       
+        </fieldset>
+        </form> 
+
+	</div> 
+        </body>
+  
+  </html>
