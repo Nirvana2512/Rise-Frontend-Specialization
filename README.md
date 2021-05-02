@@ -8,7 +8,7 @@
 
 1. Assesment one : Registration Form designed in HTML.
 
-    Task given by Hannan Sir.
+   Task given by Hannan Sir.
 
 2. Assesment one : localStorage & sessionStorage.
    Please open Readme file  link.....
