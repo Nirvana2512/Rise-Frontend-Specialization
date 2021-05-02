@@ -17,7 +17,7 @@
 3. Assesment two : WebSQL.html to IndexedDB.html
  
      Includes.....
-        *  Ami's ToDo list - WebSQL Example
+        *  Ami's ToDo list & Schedules - WebSQL Example & IndexedDB Example
         *  type=text * id=todo * placeholder=What do you need to do ami * type=submit * value=Add * onclick=add * onclick=showAll * value="Delete All * onclick="cleanAll  
         *  function deleteTodo *  function cleanAll * function initDB
    
