@@ -2,8 +2,9 @@
 
 
 
-    Assesment submission by AMI PATEL dated 2nd May'2021.
+    Assesment submission by AMI PATEL.
     
+   
    Task givrn by Priti Ma'am.
 
 1. Assesment one : Registration Form designed in HTML.
@@ -23,5 +24,9 @@
    
       VisualStudioCode work stored in Repository.
        
-
+    Task given by Juee Ma'am.
+    
+ 4. Login Form with validation.
+ 5. Error Handling in form.
+ 6. Email / Phone.
 
