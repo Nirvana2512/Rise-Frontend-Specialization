@@ -2,15 +2,15 @@
 
 
 <html>
-    <head>
+    <body>
     <h2>
     Assesment submission by AMI PATEL.
-    </h2></head>
+    </h2>
    <h3>
    Task givrn by Priti Ma'am.
 </h3>
-    <body>
-        <li> Assesment one : Registration Form designed in HTML.</li>
+    
+ <li> Assesment one : Registration Form designed in HTML.</li>
 
  <h3>  Task given by Hannan Sir.<h3>
 
@@ -32,4 +32,6 @@
  <li> Login Form with validation.</li>
  <li> Error Handling in form.</li>
  <li> Email / Phone.</li>
+ </body>
+ </html>
 
