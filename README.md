@@ -8,7 +8,7 @@
     
   <li> Assesment one : Registration Form designed in HTML.</li>
 
-  <h3>  Task given by Hannan Sir.<h3>
+  <h3>  Task given by Hannan Sir.</h3>
 
   <li>Assesment one : localStorage & sessionStorage.</li>
   <li> Please open Readme file  link.....</li>
@@ -20,7 +20,7 @@
   <li> *  type=text * id=todo * placeholder=What do you need to do ami * type=submit * value=Add * onclick=add * onclick=showAll * value="Delete All * onclick="cleanAll  
         *  function deleteTodo *  function cleanAll * function initDB</li>
         
-  <h3>  Task given by Juee Ma'am.</h3.
+  <h3>  Task given by Juee Ma'am.</h3>
     
   <li> Error Handling in form.</li>
   <li> Email / Phone.</li>
